@@ -7,10 +7,15 @@
 2. Create a terraform.tfvars file and set variables values
 
 github_organization = ""
+
 github_repository = ""
+
 github_branch = ""
+
 github_token = ""
+
 webhook_secret = ""
+
 aws_region = ""
 
 3. Set aws credentials
